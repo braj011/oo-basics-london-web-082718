@@ -9,6 +9,9 @@ class Shoe
   
 end 
 
+# RUN THE SPECS
+#       learn spec/02_shoe_spec.rb
+
 
 
 # describe 'Shoe' do
@@ -63,5 +66,3 @@ end
 
 
 
-# RUN THE SPECS
-#       learn spec/02_shoe_spec.rb
