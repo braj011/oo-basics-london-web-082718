@@ -11,7 +11,7 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    @condition = "new"      # NEEDED TO CHANGE CONDITION referring to INSTANCE VARIABLE 
+    @condition = "new"      # NEEDED TO CHANGE CONDITION referring to INSTANCE VARIABLE / METHOD
   end
   
   
